@@ -12,7 +12,7 @@
 - Referer
   - 클라이언트가 요청을 보낼 때 머무르고 있던 URL이 명시
   - Referer를 통해 클라이언트의 유입 경로 파악 가능
-  - ⚠️ Referrer가 맞는 스페링이지만, 초기 개발 당시 오타로 인해 Referer라는 표기가 오늘날까지 사용되고 있음
+  - ⚠️ Referrer가 맞는 스펠링이지만, 초기 개발 당시 오타로 인해 Referer라는 표기가 오늘날까지 사용되고 있음
 - Authorization
   - 클라이언트의 인증 정보를 담는 헤더
   - `Authorization: <type> <credentials>`: 인증 타입 (type)과 인증을 위한 정보 (credentials)가 차례로 명시
